@@ -15,3 +15,31 @@ Patient testimonials and ratings
 Clinic location, timings, and contact information
 
 Clean and professional healthcare UI
+
+Frontend
+
+React – component-based UI development
+
+Bootstrap – responsive layout, grid, cards, buttons
+
+JavaScript – functionality and interactivity
+
+HTML – structure of the page
+
+CSS – styling and layout
+
+UI / Styling
+
+Bootstrap components
+
+Custom CSS
+
+CSS animations / scroll animations
+
+Responsive design for mobile, tablet, and desktop
+
+Libraries / Integrations
+
+Font Awesome – icons (Instagram, Google, etc.)
+
+WhatsApp deep link integration for Book Appointment
